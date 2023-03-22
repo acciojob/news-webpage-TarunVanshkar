@@ -10,6 +10,7 @@ body{
     font-size: 40px;
     font-weight: bold;
     padding: 40px;
+	text-align:center;
 }
 
 .flex-container{
@@ -38,7 +39,7 @@ body{
     width: 1000px;
 }
 
-.main h3{
+.main h2{
     text-align: center;
 }
 
