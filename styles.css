@@ -6,10 +6,12 @@ body{
 .head{
     background-color:  #011e29;
     color: white;
-    text-align: center;
+/*     text-align: center; */
     font-size: 40px;
     font-weight: bold;
     padding: 40px;
+}
+header{
 	text-align:center;
 }
 
@@ -51,6 +53,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 20px;
+	text-align:center;
 }
 
 .pictorial-news-section h3{
