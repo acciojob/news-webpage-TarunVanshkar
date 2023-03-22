@@ -20,7 +20,7 @@ body{
     padding: 10px 30px;
 }
 
-.news{
+.latest-news-section{
     border: 5px solid white;
     background-color: white;
     padding: 20px;
@@ -38,11 +38,11 @@ body{
     width: 1000px;
 }
 
-.main h1{
+.main h3{
     text-align: center;
 }
 
-.pics{
+.pictorial-news-section{
     border: 5px solid white;
     background-color: white;
     border-radius: 20px;
@@ -52,9 +52,9 @@ body{
     gap: 20px;
 }
 
-.pics h2{
+.pictorial-news-section h3{
     text-align: center;
 }
-.pics img{
+.pictorial-news-section img{
     width:200px;
 }
